@@ -1,0 +1,31 @@
+# depslib dependency file v1.0
+1460742641 source:e:\apps\codeblocks\projects\signalplusplus\samples\sample5\sample5.cpp
+	<iostream>
+	"../../signalpp/signalpp.h"
+
+1460031047 e:\apps\codeblocks\projects\signalplusplus\signalpp\signalplusplus.h
+	<type_traits>
+	<vector>
+	<string>
+	<tuple>
+	<stdexcept>
+
+1461670309 e:\apps\codeblocks\projects\signalplusplus\signalpp\signalpp.h
+	<vector>
+	<string>
+	<stdexcept>
+	<typeinfo>
+	<thread>
+
+1476541748 source:e:\apps\codeblocks\projects\signalplusplus2\samples\sample5\sample5.cpp
+	<iostream>
+	"../../signalpp/signalpp.h"
+
+1476541342 e:\apps\codeblocks\projects\signalplusplus2\signalpp\signalpp.h
+	<tuple>
+	<string>
+	<typeinfo>
+	<list>
+	<map>
+	<thread>
+
